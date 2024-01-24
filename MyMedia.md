@@ -23,4 +23,24 @@ The below table consists of the information of songs that I like and the lyric w
 >
 > Be kind, for everyone you meet is fighting a hard battle. – *Plato*
 
+---
+### Code Fencing
 
+Decorator to create a singleton class.
+
+```
+def singleton(myClass):
+	instances = {}
+	def getInstance(*args, **kwargs):
+		if myClass not in instances:
+			instances[myClass] = myClass(*args, **kwargs)
+		return instances[myClass]
+	return getInstance
+
+@singleton
+class TestClass(object):
+	pass
+
+```
+
+Link for snippet is <https://code.pieces.app/collections/python>
