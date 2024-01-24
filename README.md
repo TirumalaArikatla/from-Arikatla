@@ -12,4 +12,6 @@ They serve a wide variety of **authentic hyderabadi**,Indian and Indo Chinese cu
 - Tank bund
 - Charminar
 - Golconda fort
+
+You can find the my media file here[Mymedia](MyMedia.md)
   
