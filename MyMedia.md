@@ -7,6 +7,8 @@ You can find my image here [Image](Myimage.jpeg)
 
 ### Table
 
+The below table consists of the information of songs that I like and the lyric writer of the songs and the reason why i recomd them.
+
 |Song Name|Reason|Writer|
 |:---|:---|:---|
 |I wanna follow follow you|Easy to remember|Anatha Sriram|
