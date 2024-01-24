@@ -15,3 +15,12 @@ The below table consists of the information of songs that I like and the lyric w
 |Chudadhu antuna|Feel good song|Chandra bose|
 |Komuram Bheemudo|Motivational song|Varun|
 |Cheppave chirugaali|Feel good song|Manisharma|
+
+---
+### Favorite Quotes
+
+> That it will never come again is what makes life so sweet. – *Emily Dickinson*
+>
+> Be kind, for everyone you meet is fighting a hard battle. – *Plato*
+
+
